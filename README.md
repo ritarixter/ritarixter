@@ -6,7 +6,7 @@
 - 💬 I study at Yandex.Practicum at the faculty of Front-End Developer and at the Russian Economic University at the faculty of Information Security 
 - 📫 How to reach me: ...
 
-<h3>Skills<h3>
+<h3>𝕊𝕜𝕚𝕝𝕝𝕤s</h3>
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -17,10 +17,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-
-
-
-
+ <h3>𝕊𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritarixter&layout=compact&theme=dark)
 
