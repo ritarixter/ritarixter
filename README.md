@@ -3,7 +3,7 @@
 <h3>𝕀'𝕞 𝕒 𝕓𝕖𝕘𝕚𝕟𝕟𝕖𝕣 𝕗𝕣𝕠𝕟𝕥𝕖𝕟𝕕 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣</h3>
 
 
-- 💬 I study at Yandex.Practicum at the faculty of Front-End Developer and at the Russian Economic University at the faculty of Information Security 
+- &#128188 I study at Yandex.Practicum at the faculty of Front-End Developer and at the Russian Economic University at the faculty of Information Security 
 - 📫 How to reach me: [vk](https://vk.com/rita_rixter)
 
 <h3>𝕊𝕜𝕚𝕝𝕝𝕤</h3>
