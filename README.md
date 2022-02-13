@@ -4,9 +4,9 @@
 
 
 - 💬 I study at Yandex.Practicum at the faculty of Front-End Developer and at the Russian Economic University at the faculty of Information Security 
-- 📫 How to reach me: ...
+- 📫 How to reach me: [vk](https://vk.com/rita_rixter)
 
-<h3>𝕊𝕜𝕚𝕝𝕝𝕤s</h3>
+<h3>𝕊𝕜𝕚𝕝𝕝𝕤</h3>
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
