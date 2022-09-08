@@ -13,8 +13,8 @@ const Rita = {
     address: "Russia, Moscow",
     profession: "Front-end developer"
   },
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker]
+  code: [Javascript, Typescript, HTML5, CSS3, SASS],
+  tools: [React, Redux, Node, REST API, ReactDND, ReactRouter]
 }
 ```
 
