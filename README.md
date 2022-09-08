@@ -7,14 +7,14 @@
 - 📫 How to reach me: [vk](https://vk.com/rita_rixter) [inst](https://www.instagram.com/rita_rixter/) ritarixter@yandex.ru
 
 ```javascript
-const Rita = { 
+const Rita:IPerson = { 
   characteristics: {
     age: 20,
     address: "Russia, Moscow",
     profession: "Front-end developer"
   },
-  code: [Javascript, Typescript, HTML5, CSS3, SASS],
-  tools: [React, Redux, Node, REST API, ReactDND, ReactRouter]
+  code: ["Javascript", "Typescript", "HTML5", "CSS3", "SASS"],
+  tools: ["React", "Redux", "REST API", "ReactDND", "ReactRouter", "Node"]
 }
 ```
 
