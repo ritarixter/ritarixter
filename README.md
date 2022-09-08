@@ -8,13 +8,13 @@
 
 ```javascript
 const Rita = { 
-characteristics: {
-  age: 20,
-  address: "Russia, Moscow",
-  profession: "Front-end developer"
-},
-code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker]
+  characteristics: {
+    age: 20,
+    address: "Russia, Moscow",
+    profession: "Front-end developer"
+  },
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker]
 }
 ```
 
