@@ -4,7 +4,9 @@
 
 
 - 👨🏻‍🎓 I study at Yandex.Practicum at the faculty of Front-End Developer and at the Russian Economic University at the faculty of Information Security 
-- 📫 How to reach me: [vk](https://vk.com/rita_rixter) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="12"/>[inst](https://www.instagram.com/rita_rixter/) ritarixter@yandex.ru
+- 📫 How to reach me: <img src="https://yandex.ru/images/search?from=tabbar&text=icon%20vk&pos=0&img_url=http%3A%2F%2Ftechcraftools.ru%2Fwp-content%2Fuploads%2F2021%2F10%2Fvk_parketservice.jpg&rpt=simage&lr=213" width="12"/>[vk](https://vk.com/rita_rixter) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="12"/>[inst](https://www.instagram.com/rita_rixter/) ritarixter@yandex.ru
+
+
 
 <h3>𝕊𝕜𝕚𝕝𝕝𝕤</h3>
   
