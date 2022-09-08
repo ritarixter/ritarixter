@@ -4,7 +4,7 @@
 
 
 - 👨🏻‍🎓 I study at Yandex.Practicum at the faculty of Front-End Developer and at the Russian Economic University at the faculty of Information Security 
-- 📫 How to reach me: [vk](https://vk.com/rita_rixter) [inst](https://www.instagram.com/rita_rixter/) e-mail: ritarixter@yandex.ru
+- 📫 How to reach me: [vk](https://vk.com/rita_rixter) [inst](https://www.instagram.com/rita_rixter/) ritarixter@yandex.ru
 
 <h3>𝕊𝕜𝕚𝕝𝕝𝕤</h3>
   
