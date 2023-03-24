@@ -14,7 +14,7 @@ const Rita:IPerson = {
     profession: "Front-end developer"
   },
   code: ["Javascript", "Typescript", "HTML5", "CSS3", "SASS"],
-  tools: ["React", "Redux", "REST API", "ReactDND", "ReactRouter", "Nest", "Jest", "Express", "MongoBD"]
+  tools: ["React", "Redux", "REST API", "ReactDND", "ReactRouter", "NestJS", "Jest", "Express", "MongoBD", "NestJS", "Cypress", "PostgreSql"]
 }
 ```
 
