@@ -9,12 +9,12 @@
 ```javascript
 const Rita:IPerson = { 
   characteristics: {
-    age: 20,
+    age: 21,
     address: "Russia, Moscow",
     profession: "Front-end developer"
   },
   code: ["Javascript", "Typescript", "HTML5", "CSS3", "SASS"],
-  tools: ["React", "Redux", "REST API", "ReactDND", "ReactRouter", "NestJS", "Jest", "Express", "MongoBD", "NestJS", "Cypress", "PostgreSQL"]
+  tools: ["React", "Redux", "Fetch/Axios", "ReactDND", "ReactRouter", "NestJS", "Jest", "Express", "MongoBD", "NextJS", "Cypress", "PostgreSQL"]
 }
 ```
 
