@@ -1,20 +1,21 @@
 <h1>ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝕄𝕒𝕣𝕘𝕠
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>𝕀'𝕞 𝕒 𝕓𝕖𝕘𝕚𝕟𝕟𝕖𝕣 𝕗𝕣𝕠𝕟𝕥𝕖𝕟𝕕 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣</h3>
+<h3>𝕀'𝕞 𝕛𝕦𝕟𝕚𝕠𝕣+ 𝕗𝕦𝕝𝕝𝕤𝕥𝕒𝕔𝕜 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣</h3>
 
 
-- 👨🏻‍🎓 I study at Yandex.Practicum at the faculty of Front-End Developer and at the Russian Economic University at the faculty of Information Security 
-- 📫 How to reach me: [vk](https://vk.com/rita_rixter) [inst](https://www.instagram.com/rita_rixter/)
+- 👨🏻‍🎓 Я закончила обучение в Яндекс.Практикум по направлению "FullStack developer". На данный момент обучаюсь в РЭУ им. Г.В.Плеханова по направлению "Информационная безопасность"
+- 💼 Работаю FullStack-разработчиком
+- 📫 Связаться со мной: [vk](https://vk.com/rita_rixter) [inst](https://www.instagram.com/rita_rixter/)
 
 ```javascript
 const Rita:IPerson = { 
   characteristics: {
     age: 21,
     address: "Russia, Moscow",
-    profession: "Front-end developer"
+    profession: "Fullstack developer"
   },
-  code: ["Javascript", "Typescript", "HTML5", "CSS3", "SASS"],
-  tools: ["React", "Redux", "Fetch/Axios", "ReactDND", "ReactRouter", "NestJS", "Jest", "Express", "MongoBD", "NextJS", "Cypress", "PostgreSQL"]
+  code: ["Javascript", "Typescript", "HTML5", "CSS3/SASS/SCSS"],
+  tools: ["React (ReactDND, ReactRouter)", "NextJS", "Redux", "Fetch/Axios", "NestJS", "Express",  "PostgreSQL/Sqlite", "MongoBD", "TypeORM/Prisma", "Cypress", "Jest", "Docker"]
 }
 ```
 
