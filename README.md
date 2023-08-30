@@ -3,9 +3,9 @@
 <h3>𝕀'𝕞 𝕛𝕦𝕟𝕚𝕠𝕣+ 𝕗𝕦𝕝𝕝𝕤𝕥𝕒𝕔𝕜 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣</h3>
 
 
-- 👨🏻‍🎓 Я закончила обучение в Яндекс.Практикум по направлению "FullStack developer". На данный момент обучаюсь в РЭУ им. Г.В.Плеханова по направлению "Информационная безопасность"
-- 💼 Работаю FullStack-разработчиком
-- 📫 Связаться со мной: [vk](https://vk.com/rita_rixter) [inst](https://www.instagram.com/rita_rixter/)
+- 👨🏻‍🎓 I graduated from Yandex.Practicum in the direction of "FullStack developer". At the moment I am studying at Plekhanov Russian University of Economics in the direction of "Information Security"
+- 💼 I work as a FullStack developer
+- 📫 Contact with me: [vk](https://vk.com/rita_rixter) [inst](https://www.instagram.com/rita_rixter/)
 
 ```javascript
 const Rita:IPerson = { 
