@@ -1,16 +1,16 @@
 <h1>ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝕄𝕒𝕣𝕘𝕠
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>𝕀'𝕞 𝕛𝕦𝕟𝕚𝕠𝕣+ 𝕗𝕦𝕝𝕝𝕤𝕥𝕒𝕔𝕜 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣</h3>
+<h3>𝕀'𝕞 𝕗𝕦𝕝𝕝𝕤𝕥𝕒𝕔𝕜 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣</h3>
 
 
 - 👨🏻‍🎓 I graduated from Yandex.Practicum in the direction of "FullStack developer". At the moment I am studying at Plekhanov Russian University of Economics in the direction of "Information Security"
 - 💼 I work as a FullStack developer
-- 📫 Contact with me: [vk](https://vk.com/rita_rixter) [inst](https://www.instagram.com/rita_rixter/)
+- 📫 Contact with me: [vk](https://vk.com/rita_rixter))
 
 ```javascript
 const Rita:IPerson = { 
   characteristics: {
-    age: 21,
+    age: 22,
     address: "Russia, Moscow",
     profession: "Fullstack developer"
   },
