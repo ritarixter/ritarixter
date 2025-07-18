@@ -10,7 +10,7 @@
 ```javascript
 const Rita:IPerson = { 
   characteristics: {
-    age: 22,
+    age: 23,
     address: "Russia, Moscow",
     profession: "Fullstack developer"
   },
