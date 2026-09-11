@@ -2,7 +2,7 @@
 
 ![Margarita Gnezdilova — Fullstack Developer](https://capsule-render.vercel.app/api?type=waving&color=0:ff8ac6,50:ff1493,100:c71585&height=230&section=header&text=Margarita%20Gnezdilova&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Svelte%20%E2%80%A2%20Node.js&descAlignY=57&descSize=17)
 
-### I turn ideas into production-ready products.
+### Hi there! I'm Margarita — a fullstack developer who turns ideas into production-ready products 💗
 
 [![Telegram](https://img.shields.io/badge/Telegram-ff1493?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rita_rixter)
 [![Email](https://img.shields.io/badge/Email-c71585?style=flat-square&logo=gmail&logoColor=white)](mailto:ritarixxter@yandex.ru)
@@ -10,7 +10,7 @@
 
 </div>
 
-## About me
+## 💖 About me
 
 I'm a **Middle Fullstack Developer** based near Moscow. I build reliable web products end to end — from product discovery and UI design to backend architecture, integrations, deployment, and support.
 
@@ -23,7 +23,7 @@ I'm a **Middle Fullstack Developer** based near Moscow. I build reliable web pro
 
 > I can take a product from a blank repository to a deployed, maintainable application — and I care just as much about the user experience as I do about the code behind it.
 
-## What I build
+## ✨ What I build
 
 | Area | Experience |
 | --- | --- |
@@ -33,7 +33,7 @@ I'm a **Middle Fullstack Developer** based near Moscow. I build reliable web pro
 | **Media & desktop** | Offline playlist players for park displays, video tools, Electron apps, camera and microscope integrations |
 | **Fintech** | Bracelet top-up flows, payment integrations, balance tracking, and automatic end-of-day refunds |
 
-## Tech stack
+## 💕 Tech stack
 
 ### Frontend
 
@@ -73,13 +73,13 @@ I'm a **Middle Fullstack Developer** based near Moscow. I build reliable web pro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="42" height="42" alt="Electron" title="Electron" />
 </p>
 
-## Education
+## 🎓 Education
 
 - **MSc, Applied Mathematics and Computer Science** — Moscow Aviation Institute, 2026
 - **MSc, Information Security of Telecommunication Systems** — Plekhanov Russian University of Economics, 2024
 - **Fullstack Developer program** — Yandex Practicum
 
-## GitHub activity
+## 💗 GitHub activity
 
 <div align="center">
 
