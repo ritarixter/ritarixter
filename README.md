@@ -1,36 +1,84 @@
-<h1>ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝕄𝕒𝕣𝕘𝕠
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>𝕀'𝕞 𝕗𝕦𝕝𝕝𝕤𝕥𝕒𝕔𝕜 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣</h3>
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff8ac6,50:ff1493,100:c71585&height=230&section=header&text=Margarita%20Gnezdilova&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20SvelteKit%20%E2%80%A2%20Node.js&descAlignY=57&descSize=17)
 
-- 👨🏻‍🎓 I graduated from Yandex.Practicum in the direction of "FullStack developer". At the moment I am studying at Plekhanov Russian University of Economics in the direction of "Information Security"
-- 💼 I work as a FullStack developer
-- 📫 Contact with me: [vk](https://vk.com/rita_rixter))
+### Hi there! I'm Margarita — a fullstack developer who turns ideas into production-ready products 💗
 
-```javascript
-const Rita:IPerson = { 
-  characteristics: {
-    age: 23,
-    address: "Russia, Moscow",
-    profession: "Fullstack developer"
-  },
-  code: ["Javascript", "Typescript", "HTML5", "CSS3/SASS/SCSS"],
-  tools: ["React (ReactDND, ReactRouter)", "NextJS", "Redux", "Fetch/Axios", "NestJS", "Express",  "PostgreSQL/Sqlite", "MongoBD", "TypeORM/Prisma", "Cypress", "Jest", "Docker"]
-}
-```
+[![Telegram](https://img.shields.io/badge/Telegram-ff1493?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rita_rixter)
+[![Email](https://img.shields.io/badge/Email-c71585?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritarixxter@yandex.ru)
+[![Profile views](https://komarev.com/ghpvc/?username=ritarixter&style=for-the-badge&color=ff69b4&label=PROFILE+VIEWS)](https://github.com/ritarixter)
 
-<h3>𝕊𝕜𝕚𝕝𝕝𝕤</h3>
-  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+</div>
 
- <h3>𝕊𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤</h3>
+## 💖 About me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritarixter&layout=compact&theme=dark)
+I'm a **Middle Fullstack Developer** based near Moscow, focused on building reliable web products end to end — from product discovery and UI design to backend architecture, integrations, deployment, and support.
 
+- 🚀 Built **30+ fullstack applications from scratch** for entertainment, education, e-commerce, fintech, media, and internal operations
+- 🧩 Design APIs and application architecture, develop interfaces, model databases, and integrate external services
+- ⚡ Work with real-time systems, payment flows, 1C integrations, self-service kiosks, restaurant automation, and IoT devices
+- 🛠 Modernize legacy systems through refactoring, performance improvements, testing, and observability
+- 🎨 Create prototypes and interfaces in Figma, then bring them to life as responsive, accessible products
+- 🌱 Currently improving my English and deepening my knowledge of scalable frontend and backend architecture
+
+> I can take a product from a blank repository to a deployed, maintainable application — and I care just as much about the user experience as I do about the code behind it.
+
+## ✨ What I build
+
+| Area                          | Experience                                                                                                    |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 🎟️ **Ticketing & e-commerce** | Booking platforms, configurable packages, payments, refunds, PDF ticket generation, 1C and kiosk integrations |
+| 🎮 **Interactive products**   | Multiplayer quizzes, educational mini-games, children's cybersecurity experiences, animation tools            |
+| 🍽️ **Business systems**       | Digital restaurant menus, Kitchen Display systems, CRM, access control, notifications, meeting-room booking   |
+| 🎬 **Media & desktop**        | Offline playlist players for park displays, video tools, Electron apps, camera and microscope integrations    |
+| 💳 **Fintech**                | Bracelet top-up flows, payment integrations, balance tracking, and automatic end-of-day refunds               |
+
+## 💕 Tech stack
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-ff1493?style=for-the-badge&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-ff4f9a?style=for-the-badge&logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-c71585?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-db2777?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-ec4899?style=for-the-badge&logo=redux&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-f472b6?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-be185d?style=for-the-badge&logo=html5&logoColor=white)
+
+### Backend & data
+
+![Node.js](https://img.shields.io/badge/Node.js-ff1493?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-c71585?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-db2777?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff69b4?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-ec4899?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-be185d?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-f472b6?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-9d174d?style=for-the-badge&logo=mqtt&logoColor=white)
+
+### Engineering
+
+![Docker](https://img.shields.io/badge/Docker-ff1493?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-c71585?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-db2777?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-ff69b4?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-ec4899?style=for-the-badge&logo=cypress&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-f472b6?style=for-the-badge&logo=storybook&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-be185d?style=for-the-badge&logo=figma&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-9d174d?style=for-the-badge&logo=electron&logoColor=white)
+
+## 🎓 Education
+
+- **MSc, Applied Mathematics and Computer Science** — Moscow Aviation Institute, 2026
+- **MSc, Information Security of Telecommunication Systems** — Plekhanov Russian University of Economics, 2024
+- **Fullstack Developer program** — Yandex Practicum
+
+## 💗 GitHub stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ritarixter&show_icons=true&hide_border=false&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=ff1493&border_color=c71585" alt="Margarita's GitHub statistics" />
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritarixter&layout=compact&hide_border=false&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&border_color=c71585" alt="Most used languages" />
+
+</div>
