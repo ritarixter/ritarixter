@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff8ac6,50:ff1493,100:c71585&height=230&section=header&text=Margarita%20Gnezdilova&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20SvelteKit%20%E2%80%A2%20Node.js&descAlignY=57&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff8ac6,50:ff1493,100:c71585&height=230&section=header&text=Margarita%20Gnezdilova&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Svelte%20%E2%80%A2%20Node.js&descAlignY=57&descSize=17)
 
 ### Hi there! I'm Margarita — a fullstack developer who turns ideas into production-ready products 💗
 
@@ -14,7 +14,7 @@
 
 I'm a **Middle Fullstack Developer** based near Moscow, focused on building reliable web products end to end — from product discovery and UI design to backend architecture, integrations, deployment, and support.
 
-- 🚀 Built **30+ fullstack applications from scratch** for entertainment, education, e-commerce, fintech, media, and internal operations
+- 🚀 Built **20+ fullstack applications from scratch** for entertainment, education, e-commerce, fintech, media, and internal operations
 - 🧩 Design APIs and application architecture, develop interfaces, model databases, and integrate external services
 - ⚡ Work with real-time systems, payment flows, 1C integrations, self-service kiosks, restaurant automation, and IoT devices
 - 🛠 Modernize legacy systems through refactoring, performance improvements, testing, and observability
